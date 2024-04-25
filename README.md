@@ -4,4 +4,5 @@ Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un l
 
 <p aling="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PET-basic.png/300px-PET-basic.png"
+alt="Ejemplo" width="500"> 
 
