@@ -30,7 +30,7 @@ alt="Lenguaje de programación básico" width="500">
 
 ## Tabla de Lenguajes de programación actuales
 
-| Característica     | Descripción                                           |                        | 
+| Lenguaje           | Área de aplicación                                    |                        | 
 |--------------------|-------------------------------------------------------|------------------------| 
 | Fácil de aprender  | Sintaxis clara y legible.                             |                        | 
 | Ampliamente usado  | Popular en diversas áreas tecnológicas.               |                        | 
