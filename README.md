@@ -20,3 +20,7 @@ Programar viene a ser el proceso de crear un software fiable mediante la escritu
  - Desarrollo de la documentación.
    
 Los lenguajes de programación están formados por un conjunto de símbolos (llamado alfabeto), reglas gramaticales (léxico/morfológicas y sintácticas) y semánticas, que en conjunto definen las estructuras válidas del lenguaje y su significado. Existe el error común de tratar como sinónimos los términos 'lenguaje de programación' y 'lenguaje informático'. Los lenguajes informáticos engloban a los lenguajes de programación y a otros más, como por ejemplo HTML (lenguaje para el marcado de páginas web, que no es propiamente un lenguaje de programación, sino un conjunto de instrucciones que permiten estructurar el contenido de los documentos).
+
+<p aling="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Classes_and_Methods.png"
+alt="Lenguaje de programación básico" width="500"> 
