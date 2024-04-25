@@ -1,2 +1,2 @@
-# ActividadUno
+# Lenguaje de Programación 
 actividad repositorio 
