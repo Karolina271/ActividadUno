@@ -12,3 +12,5 @@ alt="Lenguaje de programación básico" width="500">
 ## Características
 
 Programar viene a ser el proceso de crear un software fiable mediante la escritura, prueba, depuración, compilación o interpretación, y mantenimiento del código fuente de dicho programa informático. Básicamente, este proceso se define aplicando lógicamente los siguientes pasos:
+
+ 1. El desarrollo lógico del programa para resolver un problema en particular. 
