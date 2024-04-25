@@ -38,5 +38,10 @@ alt="Lenguaje de programación básico" width="500">
 | C++                       | Orientado a objeto                                    | Lenguaje compliado     |  
 | Cobol                     | administación                                         | lenguaje compliado     |             
 | Fortran                   | Cálculo                                               | Lenguaje Compliado     | 
-| pro, orientada a internet | 
+| Java                      | programación orientada a internet                     | Lenguaje Intermediario |
+| MATLAB                    | Cálculos matemáticos                                  | Lenguaje interpretado  |
+| Cálculos Matemáticos      | Cálculos matemáticos                                  | Lenguaje Interpretado  |
+| LISP                      | Inteligencia Artificial                               | Lenguaje Intermediario |
+| Pascal                    | Educación                                             | Lenguaje Compliado     |
+| PHP                       | Desarrollo de sitios web dinámicos                    | Lenguaje interpretado  |
 
