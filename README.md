@@ -9,6 +9,6 @@ alt="Lenguaje de programación básico" width="500">
   <em>Figura 1: Ejemplo de Lenguaje de programación básico.</em>
 <p/> 
 
-##Características
+## Características
 
 Programar viene a ser el proceso de crear un software fiable mediante la escritura, prueba, depuración, compilación o interpretación, y mantenimiento del código fuente de dicho programa informático. Básicamente, este proceso se define aplicando lógicamente los siguientes pasos:
