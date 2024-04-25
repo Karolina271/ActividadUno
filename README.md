@@ -30,12 +30,12 @@ alt="Lenguaje de programación básico" width="500">
 
 ## Tabla de Lenguajes de programación actuales
 
-| Lenguaje           | Área de aplicación                                    |                        | 
+| Lenguaje           | Área de aplicación                                    | Compilado/Interpretado | 
 |--------------------|-------------------------------------------------------|------------------------| 
-| Fácil de aprender  | Sintaxis clara y legible.                             |                        | 
-| Ampliamente usado  | Popular en diversas áreas tecnológicas.               |                        | 
-| Comunidad amplia   | Extensa biblioteca de módulos y soporte comunitario.  |                        | 
-
-
+| ADA                | Tiempo real                                           | Lenguaje compliado                       | 
+| BASIC              | programación para fines educativos                    | Lenguaje interpretado  | 
+| C                  | Programación de sistema                               | Lenguaje compliado     | 
+| C++                | Orientado a objeto                                    | Lenguaje compliado     |  
+| Cobol              | administación                                         | lenguaje compliado     |             
 
 
