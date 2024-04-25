@@ -28,3 +28,14 @@ alt="Lenguaje de programación básico" width="500">
   <em>Figura 2: Ejemplo de código fuente escrito en el lenguaje de programación Java</em>
 </p> 
 
+## Tabla de Lenguajes de programación actuales
+
+| Característica     | Descripción                                           |                        | 
+|--------------------|-------------------------------------------------------|------------------------| 
+| Fácil de aprender  | Sintaxis clara y legible.                             |                        | 
+| Ampliamente usado  | Popular en diversas áreas tecnológicas.               |                        | 
+| Comunidad amplia   | Extensa biblioteca de módulos y soporte comunitario.  |                        | 
+
+
+
+
