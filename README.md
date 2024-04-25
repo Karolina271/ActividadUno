@@ -5,4 +5,6 @@ Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un l
 <p aling="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PET-basic.png"
 alt="Lenguaje de programación básico" width="500"> 
-
+  <br>
+  <em>Figura 1: Ejemplo de Lenguaje de programación básico.</em>
+<p/> 
