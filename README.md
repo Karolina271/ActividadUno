@@ -30,12 +30,13 @@ alt="Lenguaje de programación básico" width="500">
 
 ## Tabla de Lenguajes de programación actuales
 
-| Lenguaje           | Área de aplicación                                    | Compilado/Interpretado | 
-|--------------------|-------------------------------------------------------|------------------------| 
-| ADA                | Tiempo real                                           | Lenguaje compliado                       | 
-| BASIC              | programación para fines educativos                    | Lenguaje interpretado  | 
-| C                  | Programación de sistema                               | Lenguaje compliado     | 
-| C++                | Orientado a objeto                                    | Lenguaje compliado     |  
-| Cobol              | administación                                         | lenguaje compliado     |             
-
+| Lenguaje                  | Área de aplicación                                    | Compilado/Interpretado | 
+|---------------------------|-------------------------------------------------------|------------------------| 
+| ADA                       | Tiempo real                                           | Lenguaje compliado     | 
+| BASIC                     | programación para fines educativos                    | Lenguaje interpretado  | 
+| C                         | Programación de sistema                               | Lenguaje compliado     | 
+| C++                       | Orientado a objeto                                    | Lenguaje compliado     |  
+| Cobol                     | administación                                         | lenguaje compliado     |             
+| Fortran                   | Cálculo                                               | Lenguaje Compliado     | 
+| pro, orientada a internet | 
 
