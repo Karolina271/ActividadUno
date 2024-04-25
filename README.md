@@ -13,4 +13,8 @@ alt="Lenguaje de programación básico" width="500">
 
 Programar viene a ser el proceso de crear un software fiable mediante la escritura, prueba, depuración, compilación o interpretación, y mantenimiento del código fuente de dicho programa informático. Básicamente, este proceso se define aplicando lógicamente los siguientes pasos:
 
- - El desarrollo lógico del programa para resolver un problema en particular. 
+ - El desarrollo lógico del programa para resolver un problema en particular.
+ - Escritura de la lógica del programa empleando un lenguaje de programación específico (codificación del programa).
+ - Compilación o interpretación del programa hasta convertirlo en lenguaje de máquina.
+ - Prueba y depuración del programa.
+ - Desarrollo de la documentación.
