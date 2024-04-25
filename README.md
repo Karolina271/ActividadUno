@@ -24,3 +24,7 @@ Los lenguajes de programación están formados por un conjunto de símbolos (lla
 <p aling="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Classes_and_Methods.png"
 alt="Lenguaje de programación básico" width="500"> 
+  <br>
+  <em>Figura 2: Ejemplo de código fuente escrito en el lenguaje de programación Java</em>
+</p> 
+
