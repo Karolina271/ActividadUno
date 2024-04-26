@@ -4,7 +4,7 @@
 1. [Lenguaje de Programación](#lenguaje-de-programación).
 2. [Características](#características).
 3. [Tabla de lenguajes de programación actuales](tabla-de-programación-de-lenguajes-actuales).
-4. [Vídeo Explicativo de los Lenguajes de Programación](video-explicativo-de-los-lenguajes-de-programación).
+4. [Video Explicativo de los Lenguajes de Programación](video-explicativo-de-los-lenguajes-de-programación).
 5. 
 
 # Lenguaje de Programación 
@@ -54,7 +54,7 @@ alt="Lenguaje de programación básico" width="500">
 | Pascal                    | Educación                                             | Lenguaje Compliado     |
 | PHP                       | Desarrollo de sitios web dinámicos                    | Lenguaje interpretado  |
 
-#### Vídeo Explicativo de los Lenguajes de Programación 
+#### Video Explicativo de los Lenguajes de Programación 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pWw4UtQhdek&t=2s">
@@ -62,4 +62,6 @@ alt="Lenguaje de programación básico" width="500">
   </a>
 </p>
 
+## Referencias
+- [Documentación oficial de Wikipedia](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n)
 
