@@ -2,6 +2,7 @@
 
 ## Contenido
 1. [Lenguaje de Programación](#lenguaje).
+2. [Caraterísticas](#caraterístricas).
 
 # Lenguaje de Programación 
 
