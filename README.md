@@ -49,7 +49,7 @@ alt="Lenguaje de programación básico" width="500">
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pWw4UtQhdek&t=2s">
-    <img src="https://img.youtube.com/vi/J0Aq44Pze-w/0.jpg" alt="Video Thumbnail](https://i.ytimg.com/vi/J0Aq44Pze-w/hqdefault.jpg](https://i.ytimg.com/vi/pWw4UtQhdek/maxresdefault.jpg)">
+    <img src="https://i.ytimg.com/vi/pWw4UtQhdek/maxresdefault.jpg">
   </a>
 </p>
 
