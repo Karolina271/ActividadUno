@@ -1,3 +1,8 @@
+# Guía sobre los Lenguajes de Programación
+
+## Contenido
+1. [Lenguaje de Programación](#lenguaje).
+
 # Lenguaje de Programación 
 
 Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un lenguaje con reglas gramaticales bien definidas) que proporciona a una persona, en este caso el programador, la capacidad y habilidad de escribir (o programar) una serie de instrucciones o secuencias de órdenes en forma de algoritmos con el fin de controlar el comportamiento físico o lógico de un sistema informático, para que de esa manera se puedan obtener diversas clases de datos o ejecutar determinadas tareas. A todo este conjunto de órdenes escritas mediante un lenguaje de programación se le denomina programa informático.
@@ -45,7 +50,7 @@ alt="Lenguaje de programación básico" width="500">
 | Pascal                    | Educación                                             | Lenguaje Compliado     |
 | PHP                       | Desarrollo de sitios web dinámicos                    | Lenguaje interpretado  |
 
-### Video Explicativo de los Lenguajes de Programación 
+#### Video Explicativo de los Lenguajes de Programación 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pWw4UtQhdek&t=2s">
