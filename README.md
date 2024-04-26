@@ -3,7 +3,9 @@
 ## Contenido
 1. [Lenguaje de Programación](#lenguaje-de-programación).
 2. [Características](#características).
-3. 
+3. [Tabla de lenguajes de programación actuales](tabla-de-programación-de-lenguajes-actuales).
+4. [Video Explicativo de los Lenguajes de Programación](video-explicativo-de-los-lenguajes-de-programación).
+5. 
 
 # Lenguaje de Programación 
 
