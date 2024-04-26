@@ -45,3 +45,12 @@ alt="Lenguaje de programación básico" width="500">
 | Pascal                    | Educación                                             | Lenguaje Compliado     |
 | PHP                       | Desarrollo de sitios web dinámicos                    | Lenguaje interpretado  |
 
+### Video Explicativo de los Lenguajes de Programación 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=pWw4UtQhdek&t=2s">
+    <img src="https://img.youtube.com/vi/J0Aq44Pze-w/0.jpg" alt="Video Thumbnail">
+  </a>
+</p>
+
+
